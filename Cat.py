@@ -261,7 +261,7 @@ PLANS = {
 # keep backward compatibility with old key "bot0" -> admin
 KEY_TO_PLAN = {
     "bot": "free",
-    "eve": "hard",
+    "6.4": "hard",
     "ham": "pro",
     "lol": "vip",
     "admin": "admin",
